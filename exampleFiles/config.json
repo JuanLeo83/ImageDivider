@@ -1,0 +1,21 @@
+{
+  "imagePath": "./exampleFiles/slime.png",
+  "widthFrames": 7,
+  "heightFrames": 5,
+  "animations": [
+    {
+      "name": "idle",
+      "row": 0,
+      "frames": 4
+    },{
+      "name": "run",
+      "row": 1,
+      "frames": 6
+    },{
+      "name": "die",
+      "row": 4,
+      "frames": 5
+    }
+  ],
+  "outputFolder": "slime"
+}
